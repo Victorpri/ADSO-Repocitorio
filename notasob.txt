@@ -1,0 +1,39 @@
+orientascion a Objetos 
+
+Max es un gato grande que duerme todo el día.
+
+Nombre del objeto = Max
+Clase = Gato
+Propiedad = Tamaño (Grande)
+Actividad = Dormir (Todo el día)
+La programación orientada a objetos es el arte de definir y expandir clases. 
+Una clase es un modelo de una parte muy específica de la realidad, que refleja 
+las propiedades y actividades que se encuentran en el mundo real.
+
+como crear una calsse
+La definición comienza con la palabra clave reservada class. La palabra clave 
+reservada es seguida por un identificador que le dará nombre a la clase 
+(nota: no lo confundas con el nombre del objeto: estas son dos cosas diferentes).
+
+A continuación, se agregan dos puntos (:), como clases, como funciones, forman su propio bloque anidado. El contenido dentro del bloque define todas las propiedades y actividades de la clase.
+
+La palabra clave reservada pass llena la clase con nada. No contiene ningún método ni propiedades.
+
+nota A:class y la asignacion del objeto debentener el mismo nombre 
+como aca 
+
+class simpleclass:
+    pass
+objeto=simpleclass()
+
+Nota:
+
+El nombre de la clase intenta fingir que es una función, ¿puedes ver esto? Lo discutiremos pronto.
+El objeto recién creado está equipado con todo lo que trae la clase. Como esta clase está completamente vacía, el objeto también está vacío.
+
+setheter 
+getheter
+--------
+si quiero llamar un espesifico medtodo temgioi que llamar al clase
+
+plimorfismo 
